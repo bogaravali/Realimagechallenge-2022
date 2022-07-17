@@ -11,6 +11,8 @@ Things you may want to cover:
 
 * Run the project you will get the path as localhost:3000 
 
+* Solution one and solution two are present in app/controller
+
 * welcome page will be displayed 
 * it consist of 2 button on it as solution one and solution two 
 
