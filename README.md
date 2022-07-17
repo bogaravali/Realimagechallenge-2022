@@ -14,7 +14,7 @@ After downlaoding prject please run the following cammand
  
    * yarn install --check-files
    * bundle install
-
+* To run project use command : rails s
 * Run the project you will get the path as localhost:3000 
 
 * Solution one and solution two are present in app/controller
