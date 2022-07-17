@@ -9,6 +9,7 @@ Things you may want to cover:
 
 * Rails version :- 6.0.3
 
+
 After downlaoding prject please run the following cammand
  
    * yarn install --check-files
