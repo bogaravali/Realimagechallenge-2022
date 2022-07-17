@@ -9,6 +9,11 @@ Things you may want to cover:
 
 * Rails version :- 6.0.3
 
+After downlaoding prject please run the following cammand
+ 
+   * yarn install --check-files
+   * bundle install
+
 * Run the project you will get the path as localhost:3000 
 
 * Solution one and solution two are present in app/controller
